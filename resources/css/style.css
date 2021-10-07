@@ -1,6 +1,7 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
 h2 {
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 p {
